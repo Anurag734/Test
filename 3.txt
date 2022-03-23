@@ -1,1 +1,2 @@
 Adding text to file 3
+Text of feature
